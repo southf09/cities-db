@@ -24,7 +24,7 @@ fetch(endpoint)
                 <span class="population">${place.population}</span>
             </li>
             `;
-        }).join();
+        }).join('');
         suggestions.innerHTML = html;
     }
 
