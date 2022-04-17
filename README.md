@@ -2,3 +2,9 @@ This project accesses a cities database, and allows the user to search any strin
 
 This project uses:
 -fetch()
+-DOM manipulation
+-Accesses and interacts with a cities API
+
+Future features to be added:
+-Hover effects on individual cities
+-Additional statistics and information provided
