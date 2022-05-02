@@ -8,3 +8,4 @@ This project uses:
 Future features to be added:
 -Hover effects on individual cities
 -Additional statistics and information provided
+-Possible map functionality
